@@ -1,7 +1,6 @@
 # LinenAndBird
 API Class Project
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ac60b2f4-cf16-4100-b414-d195b94e30f9/Untitled.png)
 
 - Taxidermy fascinators for the turn of the Decade
 
